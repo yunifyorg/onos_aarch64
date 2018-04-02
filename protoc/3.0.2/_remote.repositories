@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 01 16:39:08 UTC 2018
+protoc-3.0.2.pom>=
+protoc-3.0.2-linux-aarch64.zip>=
