@@ -16,8 +16,8 @@ index 53ab5efd3d..931995c43c 100644
      "protoc-3.0.2-osx-x86_64.zip":"f71d97affca4ffe32747772539c0bcbf76c9dc9b",
      "protoc-3.2.0-linux-x86_64.zip":"f418d246d183a534d9bd749e614f639a55f6829b",
      "protoc-3.2.0-osx-x86_64.zip":"81f4fac3200ba2cb12a98df0a9ee4d1c584e9210",
-+    "protoc-3.2.0-linux-aarch64.zip":"d782ef5785392b986703d7c04ca401208a8f660b",
-+    "protoc-3.0.2-linux-aarch64.zip":"f4291f6dabc78e494e2f37cd7ce8fd52a7adbe7b",
++    "protoc-3.2.0-linux-aarch64.zip":"07e7943eaff8b39ff2afdc343e70751ba82b053e",
++    "protoc-3.0.2-linux-aarch64.zip":"a98a516301440bb6ec949d54fae4d234b1e7a2e9",
  }
  
  GRPC_JAVA_SHA1S = {
